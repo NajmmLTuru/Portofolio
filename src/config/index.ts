@@ -64,10 +64,10 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "",
-      summary: "",
-      linkPreview: "",
-      linkSource: "",
+      name: "Raudlatul Muhtadin Islamic Prayer Room Landing Website",
+      summary: "Raudlatul Muhtadin Islamic Prayer Room Landing Website is an informational landing website for Raudlatul Muhtadin designed to serve as a digital",
+      linkPreview: "https://github.com/NajmmLTuru/Raudlatul-Muhtadin-musholla-web",
+      linkSource: "https://github.com/NajmmLTuru/Raudlatul-Muhtadin-musholla-web",
       image: "/",
     },
     {
