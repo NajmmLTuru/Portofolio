@@ -19,8 +19,8 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "Youtube", href: "https://youtube.com/@lord_of_turu?si=IoTm8EHiWxB9g4k9" },
     { text: "Instagram", href: "https://www.instagram.com/lord_of_turu/" },
   ],
-  socialImage: "/zen-og.png",
-  canonicalURL: "https://astro-zen.vercel.app",
+  socialImage: "",
+  canonicalURL: "https://muhammad-najmul-fahmi.vercel.app",
 };
 
 export const SITE_CONTENT: SiteContent = {
